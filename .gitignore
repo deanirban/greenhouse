@@ -4,3 +4,8 @@
 
 /.vs/slnx.sqlite
 /.vs/ProjectSettings.json
+/Structured.Logging.Serilog.Sample/obj
+/Structured.Logging.Serilog.Sample/bin/Debug/net5.0
+/Structured.Logging.Serilog.Sample/.vs/Structured.Logging.Serilog.Sample/v16
+/.vs/VSWorkspaceState.json
+/.vs/greenhouse/v16/.suo
